@@ -1,1 +1,3 @@
 file 2 add in dark-mode
+
+added more stuff in file 2 
